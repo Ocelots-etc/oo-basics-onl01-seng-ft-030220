@@ -31,4 +31,3 @@ def condition=(condition)
 
 
 end
-
