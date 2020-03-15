@@ -17,7 +17,7 @@ def cobble
 end
 
 end
-=======
+
 end
 
 def condition=(condition)
@@ -25,7 +25,6 @@ def condition=(condition)
  end
 
  def condition
-
    @condition
  end
 
