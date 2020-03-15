@@ -15,8 +15,6 @@ def cobble
   @condition = "new"
 end
 
-end
-
 def condition=(condition)
    @condition = condition
  end
