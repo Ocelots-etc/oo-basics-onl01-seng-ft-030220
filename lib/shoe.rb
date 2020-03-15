@@ -24,6 +24,4 @@ def condition=(condition)
  def condition
    @condition
  end
-
-
 end
